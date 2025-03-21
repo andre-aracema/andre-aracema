@@ -1,4 +1,4 @@
-# e🎓 André Akira
+# 🎓 André Akira
 
 **`Estudante de Ciência da Computação`**
 
