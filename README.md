@@ -1,4 +1,4 @@
-# 💻 André Akira
+# e🎓 André Akira
 
 **`Estudante de Ciência da Computação`**
 
@@ -6,7 +6,7 @@ Me chamo André Akira A Abe Aracema, estou cursando Ciência da Computação na 
 
 Pretendo me especializar em Ciência de Dados, empregando métodos como aprendizado de máquina, estatística e outras metodologias para desenvolver soluções inovadoras e eficazes. Estou constantemente à procura de novas informações e desafios que me permitam melhorar minhas competências e utilizar o que aprendo de maneira prática e pertinente.
 
-### Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
