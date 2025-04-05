@@ -1,7 +1,7 @@
 # Hi there, I'm André Akira 👋
 
 #### I'm a programming and data science enthusiast based in Brazil. 🇧🇷
----
+
 ## About me
 - 🏛️ Computer Science student at UFPR
 - 📊 Passionate about data science, and problem-solving
