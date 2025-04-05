@@ -4,12 +4,12 @@
 
 **About me**
 - 🏛️ Computer Science student at UFPR
-- 📊 Passionate about data science, and problem-solving
+- 📊 Passionate about data science and problem-solving
 - 🐍 Currently improving my Python skills and exploring data analysis
-- 📚 Learning Python, R and SQL for data analysis
+- 📚 Learning Python, R, and SQL for data analysis
 - 🧠 Always learning and improving
 
-**Languages and Tools:**
+**Languages and Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
