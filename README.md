@@ -1,46 +1,22 @@
-# 🎓 André Akira
+# Hi there, I'm André Akira 👋
 
-**`Estudante de Ciência da Computação`**
+#### I'm a programming and data science enthusiast based in Brazil. 🇧🇷
+---
+## About me
+- 🏛️ Computer Science student at UFPR
+- 📊 Passionate about data science, and problem-solving
+- 🐍 Currently improving my Python skills and exploring data analysis
+- 📚 Learning Python, R and SQL for data analysis
+- 🧠 Always learning and improving
 
-Me chamo André Akira A Abe Aracema, estou cursando Ciência da Computação na Universidade Federal do Paraná (UFPR) e tenho um grande interesse em Ciência de Dados, Tecnologia e Inovação. Estou convencido de que, através da análise e compreensão de dados, podemos superar desafios complexos e contribuir de maneira significativa para a transformação digital.
+## Languages and Tools:
 
-
-### 💻 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 <br/>
-
