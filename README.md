@@ -1,15 +1,14 @@
-# Hi there, I'm André Akira 👋
+# Olá, me chamo André Akira 👋
 
-I'm a programming and data science enthusiast based in Brazil. 🇧🇷
+Sou programador e entusiasta de ciência de dados.
 
 **About me**
-- Computer Science student at UFPR
-- Passionate about data science and problem-solving
-- Currently improving my Python skills and exploring data analysis
-- Learning Python, R, and SQL for data analysis
-- Always learning and improving
+- Sou estudante de Ciência da Computação na UFPR
+- Apaixonado por ciência de dados e resolução de problemas
+- Estudando Python, R e SQL para análise de dados
+- Sempre aprendendo e evoluindo
 
-**Languages and Tools**
+**Linguagens e Ferramentas**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
