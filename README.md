@@ -3,11 +3,11 @@
 I'm a programming and data science enthusiast based in Brazil. 🇧🇷
 
 **About me**
-- 🏛️ Computer Science student at UFPR
-- 📊 Passionate about data science and problem-solving
-- 🐍 Currently improving my Python skills and exploring data analysis
-- 📚 Learning Python, R, and SQL for data analysis
-- 🧠 Always learning and improving
+- Computer Science student at UFPR
+- Passionate about data science and problem-solving
+- Currently improving my Python skills and exploring data analysis
+- Learning Python, R, and SQL for data analysis
+- Always learning and improving
 
 **Languages and Tools**
 
