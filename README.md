@@ -5,7 +5,7 @@ Sou programador e entusiasta de ciência de dados.
 **Sobre mim**
 - Sou estudante de Ciência da Computação na UFPR
 - Apaixonado por ciência de dados e resolução de problemas
-- Estudando Python, R e SQL para análise de dados
+- Estudando Python e SQL para análise de dados
 - Sempre aprendendo e evoluindo
 
 **Linguagens e Ferramentas**
