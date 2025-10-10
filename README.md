@@ -7,7 +7,9 @@
 Sou estudante de Ciência da Computação na **UFPR**.
 
 - Atualmente, minha pesquisa em Iniciação Científica é focada no desenvolvimento de sistemas de **RAG (Retrieval-Augmented Generation)** para aumentar a confiabilidade em **LLMs (Large Language Models)**.
+ 
 -  Utilizo **Python** e seu ecossistema (Pandas, Scikit-learn) para construir e avaliar modelos, e estou aprofundando meus conhecimentos em **SQL** para manipulação de grandes volumes de dados.
+
 - Busco ativamente por uma **oportunidade de estágio** em Ciência de Dados ou Engenharia de Machine Learning, onde eu possa agregar valor e continuar meu desenvolvimento profissional.
 
  
@@ -15,23 +17,17 @@ Sou estudante de Ciência da Computação na **UFPR**.
 
 **Linguagens de Programação:**
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,sql" />
-  </a>
-</p>
+  <img src="https://skillicons.dev/icons?i=python,c,sql&theme=light" />
+  </p>
 
 **Data Science & Machine Learning:**
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,pytorch,jupyter" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,pytorch,jupyter&theme=light" />
 </p>
 
 **Ferramentas e Plataformas:**
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=light" />
 </p>
 
 ### Como me Encontrar
