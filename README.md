@@ -21,4 +21,4 @@ Estudante de Ciência da Computação na Universidade Federal do Paraná (UFPR).
 ### Contato
 
 * **Email:** [andreakirapic@gmail.com](andreakirapic@gmail.com)
-* **LinkedIn:** [andre-aracema]([andreakirapic@gmail.com](https://www.linkedin.com/in/andre-aracema/))
+* **LinkedIn:** [andre-aracema](https://www.linkedin.com/in/andre-aracema/)
