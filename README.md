@@ -18,7 +18,11 @@ Estudante de Ciência da Computação na Universidade Federal do Paraná (UFPR).
 
 * **Ferramentas:** Git, GitHub
 
+### Destaques
+
+* Medalhista de bronze - ONMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)
+
 ### Contato
 
-* **Email:** [andreakirapic@gmail.com](andreakirapic@gmail.com)
+* **Email:** [andreakirapic@gmail.com](mailto:andreakirapic@gmail.com)
 * **LinkedIn:** [andre-aracema](https://www.linkedin.com/in/andre-aracema/)
