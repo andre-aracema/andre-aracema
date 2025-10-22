@@ -20,7 +20,7 @@ Estudante de Ciência da Computação na Universidade Federal do Paraná (UFPR).
 
 ### Destaques
 
-* Medalhista de bronze - ONMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)
+* Medalhista de bronze - OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)
 
 ### Contato
 
